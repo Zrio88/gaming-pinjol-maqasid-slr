@@ -27,9 +27,22 @@ policy.
 | `data/prisma-flow.csv` | PRISMA 2020 record counts, stage by stage. |
 | `search/search-strategies.md` | Concept blocks, information sources, retrieval date, and the **verbatim** database search strings. |
 | `search/screening-log.md` | Screening and exclusion log with reasons (E1–E9) and the PRISMA narrative. |
+| `protocol/protocol-summary.md` | **Appendix C** — the pre-specified review protocol (v1.0): review questions, PICOC/PICOS, eligibility, selection, extraction, appraisal and synthesis plans. |
 | `protocol/inclusion-exclusion-codes.md` | Operational inclusion criteria and the full E1–E9 exclusion codes. |
 | `protocol/codebook.md` | Data-extraction codebook (field list used for the evidence table). |
+| `appendices/README.md` | **Index of Appendices A–E**, mapping each in-text appendix reference to its file here. |
+| `appendices/appendix-D-prisma-2020-checklist.md` | **Appendix D** — the completed PRISMA 2020 checklist (27 items) with the location of each item in the manuscript. |
 | `DATA-AVAILABILITY-STATEMENT.md` | The statement to cite in the manuscript / submission. |
+
+### Appendix map (as cited in the manuscript)
+
+| Appendix | Repository file(s) |
+|----------|--------------------|
+| A — search log | `search/search-strategies.md` |
+| B — evidence table (S01–S36) | `data/included-studies.csv` (+ `data/table2…4`, `data/quality-appraisal.csv`, `data/certainty-of-evidence.csv`) |
+| C — protocol appendix | `protocol/protocol-summary.md`, `protocol/inclusion-exclusion-codes.md`, `protocol/codebook.md` |
+| D — completed PRISMA 2020 checklist | `appendices/appendix-D-prisma-2020-checklist.md` |
+| E — screening log | `search/screening-log.md` (+ `data/prisma-flow.csv`) |
 
 ## Data dictionary
 
