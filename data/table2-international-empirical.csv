@@ -1,0 +1,17 @@
+study_id,study,country,design,sample_n,exposure_outcome,key_finding
+S01,Zendle & Cairns (2018),Multi,Cross-sectional,"7,422",Loot box spending → problem gambling,Positive correlation; small–medium but consistent
+S02,Zendle & Cairns (2019),Multi,Cross-sectional,NR,Loot box spending → problem gambling,Replication confirms association
+S03,Spicer et al. (2022),UK,Cross-sectional,NR,Loot box engagement → gambling behaviour,Tests the gateway hypothesis
+S04,Sirola et al. (2023),Finland,Cross-sectional (SEM),"2,022",Loot box purchasing → indebtedness,Problem gambling as mediator; loneliness as moderator
+S05,Raneri et al. (2022),Multi,Systematic review,14 studies,Microtransactions → IGD/GD,Microtransactions associated with IGD & GD; screening κ = 0.63
+S06,Leung et al. (2026),Australia,Cross-sectional,NR,Gaming disorder → over-spending,"Over-spending across game, in-game, and esports betting; highest at ages 18–40"
+S07,Journal of Behavioral Addictions (2026),Multi,Cross-sectional,NR,Gaming-disorder risk → financial harm,Overspending 80.2% & financial harm 77.8% (high risk) vs 42.6% & 30.6% (low risk)
+S08,Drummond & Sauer (2018),Multi,Conceptual,—,Loot box → gambling status,Loot boxes are psychologically akin to gambling
+S09,Threadgold et al. (2025),UK,Qualitative,NR,BNPL/gamification → debt situation,Gamification normalises consumer debt among young people
+S10,Mohan (2025),Ireland,Cross-sectional,NR,Gambling involvement → financial stress,Gambling involvement associated with financial stress (comparator)
+S31,Wardle & Zendle (2021),UK,Cross-sectional,NR,Loot box purchase → problem gambling,Loot box purchase associated with problem gambling and gambling participation (ages 16–24)
+S32,Zhou et al. (2024),Multi,Meta-analysis,NR,Internet gaming disorder,Pooled IGD prevalence 6.7%; varies by DSM-5 vs ICD-11
+S33,Gibson et al. (2024),Multi,Cross-sectional,NR,Microtransaction engagement → problem gaming/gambling,Association present; consumption motivations shape the pathway
+S34,Xiao (2023),Belgium,Policy evaluation,NR,Loot box regulation → compliance,Belgium's paid-loot-box ban widely circumvented; mechanism persisted
+S35,Satapathy et al. (2025),Multi,Meta-analysis,NR,Gaming disorder (adolescents),Pooled gaming-disorder prevalence 8.6%
+S36,Akli & Boukerroucha (2024),Malaysia,Legal-normative,NR,Online gaming → mental abilities,Appraised via ḥifẓ al-ʿaql within maqāṣid al-Sharīʿah

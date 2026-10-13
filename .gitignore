@@ -1,0 +1,8 @@
+# LibreOffice / OpenOffice lock & backup files
+.~lock.*#
+*.~lock.*
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*~
+*.tmp

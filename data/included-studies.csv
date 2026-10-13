@@ -1,0 +1,37 @@
+study_id,category,study,country,design,sample_or_population,exposure_outcome,object,shariah_lens,maqasid_dimension,key_finding,quality_rating
+S01,International empirical,Zendle & Cairns (2018),Multi,Cross-sectional,"7,422",Loot box spending → problem gambling,,,,Positive correlation; small–medium but consistent,Medium
+S02,International empirical,Zendle & Cairns (2019),Multi,Cross-sectional,NR,Loot box spending → problem gambling,,,,Replication confirms association,Medium
+S03,International empirical,Spicer et al. (2022),UK,Cross-sectional,NR,Loot box engagement → gambling behaviour,,,,Tests the gateway hypothesis,Medium
+S04,International empirical,Sirola et al. (2023),Finland,Cross-sectional (SEM),"2,022",Loot box purchasing → indebtedness,,,,Problem gambling as mediator; loneliness as moderator,Medium
+S05,International empirical,Raneri et al. (2022),Multi,Systematic review,14 studies,Microtransactions → IGD/GD,,,,Microtransactions associated with IGD & GD; screening κ = 0.63,High
+S06,International empirical,Leung et al. (2026),Australia,Cross-sectional,NR,Gaming disorder → over-spending,,,,"Over-spending across game, in-game, and esports betting; highest at ages 18–40",Medium
+S07,International empirical,Journal of Behavioral Addictions (2026),Multi,Cross-sectional,NR,Gaming-disorder risk → financial harm,,,,Overspending 80.2% & financial harm 77.8% (high risk) vs 42.6% & 30.6% (low risk),Medium
+S08,International empirical,Drummond & Sauer (2018),Multi,Conceptual,—,Loot box → gambling status,,,,Loot boxes are psychologically akin to gambling,Medium
+S09,International empirical,Threadgold et al. (2025),UK,Qualitative,NR,BNPL/gamification → debt situation,,,,Gamification normalises consumer debt among young people,Medium
+S10,International empirical,Mohan (2025),Ireland,Cross-sectional,NR,Gambling involvement → financial stress,,,,Gambling involvement associated with financial stress (comparator),Medium
+S11,Indonesian empirical,Rachman & Ghozali (2023),Indonesia,Qualitative,Adolescent gamers,Virtual goods → in-game spending,,,,Consumptive; analysed from a maṣlaḥah perspective,Medium
+S12,Indonesian empirical,Wijaya (2024),Indonesia,Quantitative,E-sport-oriented students,E-sport phenomenon → financial behaviour,,,,E-sport associated with student financial behaviour,Medium
+S13,Indonesian empirical,Airlangga (2025),Indonesia,Quantitative,Gen-Z mobile gamers,Game addiction → in-app purchase intention,,,,Addiction associated with loyalty and in-app purchase intention,Medium
+S14,Indonesian empirical,Apriani (2025),Indonesia,Cross-sectional,"Adolescents, SMPN 4 Meulaboh",Game addiction → mental health,,,,Significant association (p = 0.002),Medium
+S15,Indonesian empirical,JEMSI/Dinasti (2025),Indonesia,Quantitative,Service users,Online gambling & pinjol → personal financial management,,,,Significant (t = 2.454; p = 0.016); comparator,Medium
+S16,Indonesian empirical,Khotima (2025),Indonesia,Quantitative,Gen-Z,Game addiction → consumptive behaviour,,,,Addiction associated with consumptive behaviour,Medium
+S17,Indonesian empirical,Wijayanti (2022),Indonesia,Qualitative,Pinjol users,Pinjol use → lifestyle,,,,Pinjol drives consumptive lifestyles,Medium
+S18,Indonesian empirical,Nopriansyah (2024),Indonesia,Descriptive,Students,Illegal pinjol exposure → financial risk,,,,Need for digital financial literacy; low quality,Low
+S19,Legal-normative (maqāṣid),Febriandika (2022),,,,,Gacha system,"Maysir, gharar (+tadlīs)","Māl, dīn",Gacha contract invalid,Medium
+S20,Legal-normative (maqāṣid),Yusoff & Razak (2023),,,,,Loot box,"Maysir, gharar","Māl, dīn",Shariah concerns in gaming & e-sport,Medium
+S21,Legal-normative (maqāṣid),Juwita (2020),,,,,Online gaming,Maqāṣid,"Māl, dīn, nafs, ʿaql",Maqāṣid framework for online gaming,Medium
+S22,Legal-normative (maqāṣid),Norhadi (2022),,,,,Online gaming,Maqāṣid,"Māl, dīn, nafs, ʿaql",Socio-economic impact of online gaming,Medium
+S23,Legal-normative (maqāṣid),Hasan & Niu (2025),,,,,Mystery box,"Gharar, maysir","Māl, dīn",Contract invalid,Medium
+S24,Legal-normative (maqāṣid),Aurlina (2025),,,,,Online gambling,"Maysir, maqāṣid","Māl, dīn, nafs, ʿaql",Contemporary maysir (comparator),Medium
+S25,Legal-normative (maqāṣid),Sularno (2023),,,,,Pinjol,Riba,Māl,High interest violates muamalah principles,Medium
+S26,Legal-normative (maqāṣid),Nadhifah (2025),,,,,Consumption,"Israf, tabzīr",Māl,Hedonism exceeds bounds,Medium
+S27,Legal-normative (maqāṣid),Amelia (2025),,,,,Game digital assets,Maqāṣid,Māl,Shariah appraisal of trading in game assets,Medium
+S28,Legal-normative (maqāṣid),Afrina (2018),,,,,Muslim consumption,Israf,Māl,Rationality restrains israf,Medium
+S29,Legal-normative (maqāṣid),Burhanuddin (2025),,,,,Game-account trading,"Gharar, maysir",Māl,Contract validity questioned; low quality,Low
+S30,Legal-normative (maqāṣid),Asbullah (2025),,,,,Game top-up,"Israf, maqāṣid",Māl,Islamic financial conduct as moderation; low quality,Low
+S31,International empirical,Wardle & Zendle (2021),UK,Cross-sectional,NR,Loot box purchase → problem gambling,,,,Loot box purchase associated with problem gambling and gambling participation (ages 16–24),Medium
+S32,International empirical,Zhou et al. (2024),Multi,Meta-analysis,NR,Internet gaming disorder,,,,Pooled IGD prevalence 6.7%; varies by DSM-5 vs ICD-11,High
+S33,International empirical,Gibson et al. (2024),Multi,Cross-sectional,NR,Microtransaction engagement → problem gaming/gambling,,,,Association present; consumption motivations shape the pathway,Medium
+S34,International empirical,Xiao (2023),Belgium,Policy evaluation,NR,Loot box regulation → compliance,,,,Belgium's paid-loot-box ban widely circumvented; mechanism persisted,Medium
+S35,International empirical,Satapathy et al. (2025),Multi,Meta-analysis,NR,Gaming disorder (adolescents),,,,Pooled gaming-disorder prevalence 8.6%,High
+S36,International empirical,Akli & Boukerroucha (2024),Malaysia,Legal-normative,NR,Online gaming → mental abilities,,,,Appraised via ḥifẓ al-ʿaql within maqāṣid al-Sharīʿah,Medium

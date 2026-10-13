@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the corresponding article and this repository (see README)."
+title: "Research data package: Monetised Play and Indebted Borrowing: Online Gaming and the Rise of Online Lending (Pinjol) in Indonesia — A PRISMA 2020 Systematic Review Through the Maqāṣid al-Sharīʿah"
+abstract: >-
+  Extraction dataset (36 studies, S01-S36), eligibility criteria, verbatim
+  database search strings, screening and exclusion log, quality appraisal, and
+  GRADE-CERQual certainty appraisal for a PRISMA 2020 systematic review on
+  online gaming, in-game monetisation, and online lending (pinjol) in Indonesia,
+  appraised through the maqasid al-Shari'ah.
+type: dataset
+authors:
+  - name: "Anonymous (author identity withheld for double-anonymized peer review)"
+version: "1.0.0"
+date-released: "2026-10-13"
+license: CC-BY-4.0
+keywords:
+  - systematic review
+  - PRISMA 2020
+  - online gaming
+  - loot boxes
+  - gacha
+  - online lending
+  - pinjol
+  - indebtedness
+  - maqasid al-shariah
+  - Indonesia
+repository-code: "https://github.com/Zrio88/gaming-pinjol-maqasid-slr"

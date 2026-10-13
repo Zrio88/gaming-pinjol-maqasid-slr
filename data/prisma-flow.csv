@@ -1,0 +1,24 @@
+stage,category,count
+Identification,Google Scholar,21
+Identification,Garuda,17
+Identification,DOAJ,2
+Identification,PubMed,1
+Identification,Records from databases (subtotal),41
+Identification,Hand-searching and citation chaining,9
+Identification,Records identified (total),50
+Identification,Added by update/bridge scan (12 Oct 2026),6
+Screening,Records screened,56
+Screening,Duplicates removed,0
+Screening,Excluded at title–abstract,8
+Screening,  E1 off-topic (title–abstract),2
+Screening,  E2 duplicate/updated (title–abstract),2
+Screening,  E4 no extractable data (title–abstract),2
+Screening,  E6 opinion without framework (title–abstract),1
+Screening,  E8 wrong language (title–abstract),1
+Screening,Full texts sought / retrieved,48
+Eligibility,Excluded at full text,1
+Eligibility,  E1 off-topic (full text),1
+Included,Studies included,47
+Included,  Core studies (online gaming),40
+Included,  Comparator studies (online gambling),7
+Included,Studies extracted in full (S01–S36),36
